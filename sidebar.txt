@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[spu:home|Door43 (spu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-spu|d43-spu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-spu/archive/master.zip|d43-spu.zip]]
+
+**Recent Changes**
+{{changes>ns = spu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/spu|Ethnologue data]]
+
